@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/pm-personified/static/css/main.5be3f2bf.css",
+    "main.js": "/pm-personified/static/js/main.01dbe808.js",
+    "static/media/bg.png": "/pm-personified/static/media/bg.019ce690730b3ad8dd15.png",
+    "static/media/card.png": "/pm-personified/static/media/card.9c0b7a42dde736b5fcc9.png",
+    "static/media/pm-cr.png": "/pm-personified/static/media/pm-cr.1ebb2021c51b4ded5a9e.png",
+    "static/media/pm.png": "/pm-personified/static/media/pm.3230d1f6ff82372ee3e4.png",
+    "index.html": "/pm-personified/index.html",
+    "main.5be3f2bf.css.map": "/pm-personified/static/css/main.5be3f2bf.css.map",
+    "main.01dbe808.js.map": "/pm-personified/static/js/main.01dbe808.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5be3f2bf.css",
+    "static/js/main.01dbe808.js"
+  ]
+}
