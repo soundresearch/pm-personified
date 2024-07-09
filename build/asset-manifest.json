@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/parking-meter-2/static/css/main.e6e480b6.css",
+    "main.js": "/parking-meter-2/static/js/main.544b0248.js",
+    "static/media/bg.png": "/parking-meter-2/static/media/bg.019ce690730b3ad8dd15.png",
+    "static/media/card.png": "/parking-meter-2/static/media/card.9c0b7a42dde736b5fcc9.png",
+    "static/media/pm-cr.png": "/parking-meter-2/static/media/pm-cr.1ebb2021c51b4ded5a9e.png",
+    "static/media/pm.png": "/parking-meter-2/static/media/pm.3230d1f6ff82372ee3e4.png",
+    "index.html": "/parking-meter-2/index.html",
+    "main.e6e480b6.css.map": "/parking-meter-2/static/css/main.e6e480b6.css.map",
+    "main.544b0248.js.map": "/parking-meter-2/static/js/main.544b0248.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6e480b6.css",
+    "static/js/main.544b0248.js"
+  ]
+}
